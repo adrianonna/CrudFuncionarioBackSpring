@@ -1,0 +1,31 @@
+{
+    "nome": "Adriano Amaral",
+    "email": "adriano.amaral147@gmail.com",
+    "funcao": "Java",
+    "telefone": "83987809422",
+    "urlImagem": "https://bootdey.com/img/Content/avatar/avatar1.png"
+}
+
+{
+    "nome": "Ana Jacqueline",
+    "email": "ajbarbosa@gmail.com",
+    "funcao": "Python",
+    "telefone": "83988404776",
+    "urlImagem": "https://bootdey.com/img/Content/avatar/avatar3.png"
+}
+
+{
+    "nome": "Samuel Cabral",
+    "email": "samuelcabral@gmail.com",
+    "funcao": "JavaScript",
+    "telefone": "81987952142",
+    "urlImagem": "https://bootdey.com/img/Content/avatar/avatar2.png"
+}
+
+{
+    "nome": "Renatha Victor",
+    "email": "renathavictor@gmail.com",
+    "funcao": "React",
+    "telefone": "83986521236",
+    "urlImagem": "https://bootdey.com/img/Content/avatar/avatar8.png"
+}
